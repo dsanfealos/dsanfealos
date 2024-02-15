@@ -1,5 +1,4 @@
 ![Header](./banner-git.JPG)
-![Header](https://imgur.com/y2wd9rK)
 ### Hi there, my name is Daniel Sanfélix, or dsanfealos, and I'm a Backend Junior Java Developer!👋
 
 <!--
